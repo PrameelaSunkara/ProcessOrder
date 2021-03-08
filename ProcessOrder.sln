@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessOrder", "ProcessOrder.csproj", "{194C6DDD-9D18-44E8-881E-AEB864A3D884}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "..\UnitTestProject\UnitTestProject.csproj", "{E4BFB69A-2EA2-4F60-9A0B-B965EDA90FBB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "..\..\..\..\..\..\OnlineTest\ProcessOrder\UnitTestProject\UnitTestProject.csproj", "{E4BFB69A-2EA2-4F60-9A0B-B965EDA90FBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

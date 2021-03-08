@@ -1,0 +1,7 @@
+C:\Users\spram\Source\Repos\PrameelaSunkara\ProcessOrder\obj\Debug\ProcessOrder.csprojAssemblyReference.cache
+C:\Users\spram\Source\Repos\PrameelaSunkara\ProcessOrder\obj\Debug\ProcessOrder.csproj.CoreCompileInputs.cache
+C:\Users\spram\Source\Repos\PrameelaSunkara\ProcessOrder\bin\Debug\ProcessOrder.exe.config
+C:\Users\spram\Source\Repos\PrameelaSunkara\ProcessOrder\bin\Debug\ProcessOrder.exe
+C:\Users\spram\Source\Repos\PrameelaSunkara\ProcessOrder\bin\Debug\ProcessOrder.pdb
+C:\Users\spram\Source\Repos\PrameelaSunkara\ProcessOrder\obj\Debug\ProcessOrder.exe
+C:\Users\spram\Source\Repos\PrameelaSunkara\ProcessOrder\obj\Debug\ProcessOrder.pdb
